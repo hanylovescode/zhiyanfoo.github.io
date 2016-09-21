@@ -1,0 +1,100 @@
+---
+layout: default
+title: learning
+finished:
+ - title: Calculus Single Variable
+   thoughts-url: machine-learning
+   institution: UPenn 
+   course-url: https://www.coursera.org/instructor/robghrist
+ - title: Linear Algebra 18.06
+   thoughts-url: machine-learning
+   institution: MIT
+   course-url: http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
+ - title: Multivariable Calculus 18.02
+   thoughts-url: machine-learning
+   institution: MIT
+   course-url: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
+   finished: true
+ - title: Differential Equations 18.03
+   thoughts-url: machine-learning
+   institution: MIT
+   course-url: http://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/
+ - title: Learning From Data
+   thoughts-url: machine-learning
+   institution: Caltech
+   course-url: https://work.caltech.edu/telecourse.html
+ - title: Probabilistic Systems 6.041
+   thoughts-url: machine-learning
+   institution: MIT
+   course-url: http://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/
+   finished: true
+ - title: Nand2Tetris
+   thoughts-url: machine-learning
+   institution: Hebrew University of Jerusalem
+   course-url: http://nand2tetris.org/
+ - title: Algorithms on Graphs
+   thoughts-url: machine-learning
+   institution: UCSD
+   course-url: https://www.coursera.org/learn/algorithms-on-graphs
+ - title: Algorithms on Strings
+   thoughts-url: machine-learning
+   institution: UCSD
+   course-url: https://www.coursera.org/learn/algorithms-on-graphs
+
+ongoing:
+ - title: Analysis of a Complex Kind
+   thoughts-url: machine-learning
+   institution: Wesleyan
+   course-url: https://www.coursera.org/learn/complex-analysis
+ - title: Real Analysis, Convexity, and Optimization
+   thoughts-url: machine-learning
+   institution: Harvard Extension School
+   course-url: https://canvas.harvard.edu/courses/17328
+---
+{% include header.html %}
+<div class="course">
+    <h1>Finished Courses:</h1>
+    <ul>
+        {% for item in page.finished %}
+        <li>
+            <ul>
+                <li>
+                    {{ item.title }}
+                </li>
+                <li>
+                    ({{ item.institution }}) -
+                </li>
+                <li>
+                    <a href="/courses/{{ item.thoughts-url }}">thoughts</a>, 
+                </li>
+                <li>
+                    <a href="{{ item.course-url }}">course page</a>
+                </li>
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+<div class="course">
+    <h1>Ongoing Courses:</h1>
+    <ul>
+        {% for item in page.ongoing %}
+        <li>
+            <ul>
+                <li>
+                    {{ item.title }}
+                </li>
+                <li>
+                    ({{ item.institution }}) -
+                </li>
+                <li>
+                    <a href="/courses/{{ item.thoughts-url }}">thoughts</a>, 
+                </li>
+                <li>
+                    <a href="{{ item.course-url }}">course page</a>
+                </li>
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

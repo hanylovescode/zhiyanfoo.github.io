@@ -1,20 +1,8 @@
 ---
 layout: default
 ---
-
-<div class="header">
-    <h1>{{ site.name }}</h1>
-    <ul>
-        {% for item in site.data.navigation %}
-        <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
+{% include header.html %}
 <div>
-DISCLAMER blogs posts below aren't mine, I just cloned https://micahcowell.com/
-to start my own.
 </div>
 <div class="blog">
     <h1>Blog Posts:</h1>
