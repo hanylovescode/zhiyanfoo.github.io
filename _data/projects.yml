@@ -1,0 +1,13 @@
+ongoing:
+ - title: crunch-shake
+   description: gender disparities in plays/scripts
+   brief: crunch-shake initially came from my desire to create an automated way to test if a script/play passed the bechdel test. Eventually I expanded the tool set to include other tests, like determining which vocabulary was favoured by females versus males.
+   source: https://github.com/zhiyanfoo/computational_plays
+ - title: calculator
+   description: the harbinger of the ti-84's death
+   brief: I know there's people who love their ti-84's-it might have been the first computer they had access to and could program on-but I personally find it to be a overprices piece of junk. Unfortunately there aren't any actually good multiline calculators online, so this is might attempt at writing one.
+   source: https://github.com/zhiyanfoo/caltech-machine-learning  
+ - title: complex-sets
+   description: Julia and Mandelbrot and Multibrot sets, oh my! 
+   brief: Just a project I picked up to learn Haskell. Right now you have to change the source code to view a different portion of a set, hopefully I'll find time to make this feature available in the app itself.
+   source: https://github.com/zhiyanfoo/complex-sets

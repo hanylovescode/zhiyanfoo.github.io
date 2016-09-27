@@ -93,23 +93,73 @@ ul {
 	}
 }
 
-.course {
+.project {
+	h1 {
+		font-size: 1.4em;
+		margin-bottom: 5px;
+	}
+    h2 {
+        font-size: 1.6em;
+        font-weight: 700;
+        padding-right: 10px;
+        padding-bottom: 2px;
+        text-decoration: none;
+		margin-bottom: 8px;
+        a {
+			&:hover {
+                border-bottom: 3px solid
+			}
+        }
+    }
+    h3 {
+        font-style: italic;
+        font-size: 1em;
+        padding-right: 10px;
+        padding-bottom: 2px;
+		margin-bottom: 10px;
+    }
+    p {
+        font-size: 1em;
+        padding-right: 10px;
+        padding-left: 50px;
+        padding-bottom: 2px;
+        text-decoration: none;
+		margin-bottom: 10px;
+		margin-top: 20px;
+    }
+    li {
+		margin-bottom: 10px;
+    }
+
+}
+.listing {
 	padding-bottom: 30px;
 	h1 {
 		font-size: 1.4em;
 		margin-bottom: 5px;
 	}
-	ul {
-		li {
-            ul {
-                li {
-                    display: inline;
-                    padding: 0;
-                    padding-left: 0;
-                }
-	}
-		}
-	}
+    ul {
+        max-width: 40em;
+        padding: 0;
+        overflow-x: hidden;
+        list-style: none}
+    ul li:before {
+        float: left;
+        width: 0;
+        white-space: nowrap;
+        content:
+     ". . . . . . . . . . . . . . . . . . . . "
+     ". . . . . . . . . . . . . . . . . . . . "
+     ". . . . . . . . . . . . . . . . . . . . "
+     ". . . . . . . . . . . . . . . . . . . . "}
+    ul span:first-child {
+        padding-right: 0.33em;
+        background: white}
+    ul  span + span {
+        float: right;
+        padding-left: 0.33em;
+        background: white}
+    // source https://www.w3.org/Style/Examples/007/leaders.en.html
 }
 .music {
 	padding-bottom: 30px;
@@ -260,4 +310,9 @@ ul {
 			margin-bottom: 10px;
 		}
 	}
+}
+
+
+#realanalysis {
+    font-size: 0.7em;
 }
