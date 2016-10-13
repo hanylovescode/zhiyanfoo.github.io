@@ -3,15 +3,15 @@ layout: post
 title: First round with Jekyll
 ---
 
-**TL;DR** Jekyll: faster, harder, longer.
+**TL;DR** Jekyll : cheap and you'll save time in the long-long run. 
 
 # Why use Jekyll?
 
 Jekyll has the dual honors of being difficult to get started with and as a
 static-website generator, also having pretty limited functionality. So why
-bother?  Well there are lots good (meaning non-shallow) reasons for going with
-Jekyll, but frankly a big part of it is social signalling. Jekyll is like vim,
-linux and obscure indie bands: due to its inaccessibility, there is social
+bother?  While there are lots non-shallow reasons for going with
+Jekyll, frankly a big part of it is social signalling. Jekyll is akin to vim,
+linux and obscure indie bands in that, due to its inaccessibility, there is social
 value in adopting it. Also open source cli apps always gives you the feeling
 that you are the person in control and are THE BOSS, not conforming to what THE
 MAN wants from you.
@@ -68,6 +68,7 @@ markdown</a></li>
 
 </ul>
 </div>
+
 # You should stay away from Jekyll if
 <div id="shortlist">
 <ul>
