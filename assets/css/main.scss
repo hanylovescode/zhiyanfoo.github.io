@@ -286,6 +286,13 @@ ul {
 			border: 0;
 			border-bottom: 1px dashed $color-black;
 		}
+        sup {
+            vertical-align: super;
+            font-size: smaller;
+            a {
+                border-bottom: none;
+            }
+        }
 	}
 }
 

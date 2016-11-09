@@ -1,25 +1,29 @@
 ---
 layout: post-learning
-title: Algorithms on Graphs
+title: Algorithms on Strings
 ---
 
 **TL;DR** Far more interesting that algorithms on graphs.
 
 # What is this?
 
-Algorithms on strings covers your a variety of algorithms related to strings,
-mainly related to compression and pattern matching. In particular there's a
-focus on algorithms that allow DNA to be sequenced efficiently.
+This course covers a variety of algorithms related to compressing and pattern
+matching strings.  In particular there's a focus on algorithms that allow DNA
+to be sequenced efficiently.
 
 # Should I take it?
 
-Algorithms on strings is another course offered by the University of San Diego
-as part of their algorithms concentration. The topics covered here are far more
-interesting than their preceding graph course and the problem sets more
-challenging but in a good way. The presentation is also better, which
-admittedly is not saying much. There were two standouts for me, the Burrows
-Wheeler Transform, which my programming book club unanimously thought was very
-cool and the way all the algorithms related back to genetic sequencing. 
+If your interested in string algorithms, this might be your only option, there
+aren't many online courses covering this topic. Overall the assignments are
+much more interesting and challenging than those found in the algorithms on
+graph course (also offered by USD). The presentation is a bit better too.
+
+# What excited you about the course?
+
+There were two standouts for me, the Burrows Wheeler Transform, which my
+[programming book club](http://www.meetup.com/Singapore-JS/events/232947776/)
+unanimously thought was very cool, and the way all the algorithms related back
+to genetic sequencing. 
 
 <br>
 

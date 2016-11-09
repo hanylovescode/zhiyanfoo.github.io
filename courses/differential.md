@@ -3,35 +3,37 @@ layout: post-learning
 title: Differential Equations
 ---
 
-**TL;DR** Finally an easy course from MIT.
+**TL;DR** A math course for scientists. 
 
 # What is this?
-A first year course in differential equation. Many models in the natural
-sciences come in the form of differential equations, so this course is of
-particular interest to science or engineering majors.
+A first year course in differential equation. Topics include first order
+differential equations, second order constant coefficient linear equations,
+fourier series and the laplace transform, as well as first order systems.
 
 # Should I take it?
 
-Overall this course was much easier than the two previous courses I took from
-MIT, and so a nice change of pace. There some strange bits to the course, like
-the convulsion methods for solving equations.  And Fourier series, like many
-infinite series, are a pain in the ass to work with. But the core material is
-straightforward enough that you can probably skip a bulk of the video lectures
-if you understand what's in the lecture notes. The most interesting material
-comes from the equations you can't solve. You then have to turn to other
-methods to get a feel for the system these equations represent. These
-visualization methods are a direct contrast to the analytical methods for
-solving differential equations, which basically all seem like one-off tricks.
-Really the main takeaway from this course is not how to solve differential
-equations, which you'll be doing with software like Mathematica and Matlab
-anyway, but how to view differential equations. This will also likely be the
-first contact you have with chaos theory which is cool. If your interested in
-the natural sciences, taking a course on differential equations at this level
-is a good idea, and this course in particular presents the material really
-well. For mathematicians or computer scientists though, this isn't an essential
-course.
+Many models in the natural sciences come in the form of differential equations,
+so this course is of particular interest to science or engineering majors. If
+your interests lie in pure math or computer science though, this isn't an
+essential course.
+
+# What excited you about this course?
+
+The most interesting material comes from the equations you can't solve. You
+then have to turn to other methods to get a feel for the system these equations
+represent. These visualization methods are a direct contrast to the analytical
+methods for solving differential equations, which basically all seem like
+one-off tricks. 
+
+Really the main takeaway from this course is not how to solve
+differential equations, which you'll be doing with software like Mathematica
+and Matlab anyway, but how to view differential equations. 
+
+This will also likely be the first contact you have with chaos theory which is
+cool. 
 
 # Additional Resources/Tips
+
 The lecture videos and the lecture notes/problems don't always align,
 especially in the beginning. The early stuff is easy enough that I recommend
 you just focus on the notes. Only if you get really stuck on a particular

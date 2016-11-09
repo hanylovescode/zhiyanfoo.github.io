@@ -9,13 +9,16 @@ title: Probabilistic Systems
 
 Its full title is 'probabilistic systems analysis and applied probability'.
 Maybe if the title was just 'probability', the professor felt people wouldn't
-take it seriously or something. The course focuses on "the modeling
-and analysis of random phenomena and processes". Topics include, but are not
-limited to, discrete and continuous random variables, derived distributions,
-convolution, covariance and correlation, iterated expectations, bernoulli
-process, poisson process, markov chains, weak law of large numbers, central
-limit theorem, bayesian statistical inference, classical statistical inference.
-I'm starting to realize why it took me so long to finish this course.
+take it seriously or something.
+
+The course focuses on "the modeling and analysis of random phenomena and
+processes"<sup><a href="#fn1" id="ref1">1</a></sup>. Topics include, but are
+not limited to, discrete and continuous random variables, derived
+distributions, convolution, covariance and correlation, iterated expectations,
+bernoulli process, poisson process, markov chains, weak law of large numbers,
+central limit theorem, bayesian statistical inference, classical statistical
+inference.  I'm starting to realize why it took me so long to finish this
+course.
 
 # Should I take it?
 
@@ -33,12 +36,16 @@ to be Markov chains which seem to be a very versatile tool.
 
 # Additional Resources/Tips
 
-Multivariable calculus is a pre-requisite for this course. If you love doing
-double integrals, this is the course for you. Markov chains also involve a fair
-bit of linear algebra. Don't let the word probability fool you, its a hard
-course.
+Knowledge of multivariable calculus is required for this course. If you love
+doing double integrals, this is the course for you. Markov chains also involve
+a fair bit of linear algebra. Don't let the word 'probability' fool you, its a
+hard course.
 
 <br>
 
 Here's the
 [course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm).
+
+<hr>
+
+<sup id="fn1">1. From the course description<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>

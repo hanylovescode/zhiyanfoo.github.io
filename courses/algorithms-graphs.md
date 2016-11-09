@@ -7,18 +7,18 @@ title: Algorithms on Graphs
 
 # What is this?
 
-Algorithms on graphs covers your basic computer science graph algorithms and
-concepts.
+This course covers your basic graph algorithms.
 
 # Should I take it?
 
-I only did it because it was what my programming book club chose to do next. I
-enjoyed it because I did it in this group setting, which makes learning so much
-more fun, but I wouldn't have picked it up by myself. A lot of the video
-explanations are not much better than what you'll find just by googling around.
-The assignments are pretty utilitarian. There's support for a variety of
-languages, although some languages are more supported than others.
+I only did it because it was what my [programming book
+club](http://www.meetup.com/Singapore-JS/events/232102849/) chose to do next. I
+enjoyed it because I did it in a group setting, which makes learning so much
+more fun, but I wouldn't have picked it up by myself. 
 
 <br>
 
-Here's the [course](https://www.coursera.org/learn/algorithms-on-graphs).
+Here's the [course](https://www.coursera.org/learn/algorithms-on-graphs), you
+can check out some graph generators I made for my group to debug our algorithms
+[here](https://github.com/zhiyanfoo/graph_generator), but bewarned, its
+rather buggy itself.

@@ -9,10 +9,11 @@ title: Learning From Data
 
 An introductory course to machine learning with a heavy emphasis on the
 subject's theoretical underpinnings. Not many algorithms are covered-there's
-the percepton, logistic regression, neural nets and support vector machines-but
-unlike practically every other machine learning course, learning algorithms are
-not the focus of the course. Instead the focus is on the big ideas in machine
-learning, such as regularization, overfitting and validation.
+the percepton, linear regression, logistic regression, neural nets and support
+vector machines-but unlike practically every other machine learning course,
+learning algorithms are not the focus of the course. Instead the focus is on
+the big ideas in machine learning, such as regularization, overfitting and
+validation.
 
 # Should I take it?
 
@@ -23,16 +24,11 @@ are other courses that might be theoretical in the sense that they go in depth
 to show why certain algorithms work, this course places a strong emphasis on
 fundamentals ideas in machine learning irrespective of any particular
 algorithm. It's an approach I really enjoyed but at times even I found it a bit
-too mathy. Also the problem sets focus on writing the machine learning algorithms
-from scratch instead testing our understanding of the proofs gone over in
-class, so there was a bit of disconnect between the lecture material and the
-problem sets. That's not to say the problem sets were easy, in fact they are
-ridiculously time intensive, be prepared to spend between 16-20 hours a week on
-this course. That's not only my experience but
-[others](https://nlppeople.com/learning-from-data-review-of-the-edx-machine-learning-course/)
-as well. In the end though you'll have a very strong grasp of the fundamentals
+too mathy. In the end though you'll have a very strong grasp of the fundamentals
 of machine learning and be very aware of how easy it is to contaminate your
 data or overfit it for example.
+
+# What's the alternative?
 
 Another artificial intelligence course I attempted was MIT's 6.034 course. The
 lecturer for the course, Professor Patrick Henry Winston, was very
@@ -65,6 +61,11 @@ you need to use a third-party library, the one recommended by the course is a
 C++ library I believe. That's the only time my results started differing from
 the courses slightly. It might be the package I was using or it could be just
 mistakes on my part.
+
+The problem sets are ridiculously time intensive, be prepared to spend between
+16-20 hours a week on this course. That's not only my experience but
+[others](https://nlppeople.com/learning-from-data-review-of-the-edx-machine-learning-course/)
+as well. 
 
 <br>
 
