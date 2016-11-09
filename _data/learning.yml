@@ -1,19 +1,18 @@
 finished:
  - title: Calculus Single Variable
-   thoughts-url: machine-learning
+   thoughts-url: single-variable
    institution: UPenn 
    course-url: https://www.coursera.org/instructor/robghrist
  - title: Linear Algebra 18.06
-   thoughts-url: machine-learning
+   thoughts-url: linear-algebra
    institution: MIT
    course-url: http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
  - title: Multivariable Calculus 18.02
-   thoughts-url: machine-learning
+   thoughts-url: multi-variable
    institution: MIT
    course-url: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
-   finished: true
  - title: Differential Equations 18.03
-   thoughts-url: machine-learning
+   thoughts-url: differential
    institution: MIT
    course-url: http://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/
  - title: Learning From Data
@@ -21,26 +20,25 @@ finished:
    institution: Caltech
    course-url: https://work.caltech.edu/telecourse.html
  - title: Probabilistic Systems 6.041
-   thoughts-url: machine-learning
+   thoughts-url: probability
    institution: MIT
-   course-url: http://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/
-   finished: true
+   course-url: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
  - title: Nand2Tetris
-   thoughts-url: machine-learning
+   thoughts-url: nand2tetris
    institution: Hebrew University of Jerusalem
    course-url: http://nand2tetris.org/
  - title: Algorithms on Graphs
-   thoughts-url: machine-learning
+   thoughts-url: algorithms-graphs
    institution: UCSD
    course-url: https://www.coursera.org/learn/algorithms-on-graphs
  - title: Algorithms on Strings
-   thoughts-url: machine-learning
+   thoughts-url: algorithms-strings
    institution: UCSD
    course-url: https://www.coursera.org/learn/algorithms-on-graphs
 
 ongoing:
  - title: Real Analysis, Convexity, and Optimization E-216
-   thoughts-url: machine-learning
+   thoughts-url: real-analysis
    institution: Harvard Extension School
    course-url: https://canvas.harvard.edu/courses/17328
 
