@@ -25,8 +25,8 @@ title: learning
     <h1>Ongoing Courses:</h1>
     <ul>
         {% for item in site.data.learning.ongoing %}
-        <li id=realanalysis>
-            <span> {{ item.title }} ({{ item.institution }})</span>
+        <li>
+            <span id=realanalysis> {{ item.title }} ({{ item.institution }})</span>
             <span>
             <a href="/courses/{{ item.thoughts-url }}">thoughts</a> |
             <a href="{{ item.course-url }}">course</a>
