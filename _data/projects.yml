@@ -1,13 +1,21 @@
 ongoing:
  - title: crunch-shake
-   description: gender disparities in plays/scripts
-   brief: crunch-shake initially came from my desire to create an automated way to test if a script/play passed the bechdel test. Eventually I expanded the tool set to include other tests, like determining which vocabulary was favoured by females versus males.
+   description: gender disparities in plays/scripts.
+   brief: crunch-shake initially came from my desire to create an automated way to test if a script/play passed the Bechdel test. Eventually I expanded the tool set to include other tests, like determining which vocabulary was favoured by females versus males.
    source: https://github.com/zhiyanfoo/computational_plays
  - title: calculator
    description: the harbinger of the ti-84's death
-   brief: I know there's people who love their ti-84's-it might have been the first computer they had access to and could program on-but I personally find it to be a overprices piece of junk. Unfortunately there aren't any actually good multiline calculators online, so this is might attempt at writing one.
-   source: https://github.com/zhiyanfoo/caltech-machine-learning  
+   brief: I know there's people who love their ti-84's-for many people it was the first 'computer' they had access to and could program on-but I personally find it to be a overpriced piece of junk. Unfortunately there aren't any actually good multiline calculators online, so this is my attempt at writing one.
+   source: https://github.com/zhiyanfoo/calculator
+ - title: brother-math
+   description: Notes and problems to high school / introductory college level math topics.
+   brief: Notes and problems to high school / introductory college level math topics. Some will be written by me, some collected from external sources like MIT OpenCourseWare, which distributes its material under a creative commons license. Originally written for my brother.
+   source: https://github.com/zhiyanfoo/brother-math
  - title: complex-sets
    description: Julia and Mandelbrot and Multibrot sets, oh my! 
    brief: Just a project I picked up to learn Haskell. Right now you have to change the source code to view a different portion of a set, hopefully I'll find time to make this feature available in the app itself.
    source: https://github.com/zhiyanfoo/complex-sets
+ - title: zhiyanfoo.github.io
+   description: personal website built with jekyll
+   brief: Your own my website right now. The theme for this website is from <a href="https://github.com/getmicah">Micah Cowell</a>. Source for this website in particular is available on <a href="https://github.com/zhiyanfoo/zhiyanfoo.github.io">github</a>.
+   source: https://github.com/zhiyanfoo/caltech-machine-learning  
