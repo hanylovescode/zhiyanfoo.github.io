@@ -19,14 +19,9 @@ title: learning
             </span>
         </li>
         {% endfor %}
-    </ul>
-</div>
-<div class="listing">
-    <h1>Ongoing Courses:</h1>
-    <ul>
-        {% for item in site.data.learning.ongoing %}
+        {% for item in site.data.learning.finished-small %}
         <li>
-            <span id=realanalysis> {{ item.title }} ({{ item.institution }})</span>
+            <span id=smallcourse> {{ item.title }} ({{ item.institution }})</span>
             <span>
             <a href="/courses/{{ item.thoughts-url }}">thoughts</a> |
             <a href="{{ item.course-url }}">course</a>
@@ -35,3 +30,18 @@ title: learning
         {% endfor %}
     </ul>
 </div>
+
+<!-- <div class="listing"> -->
+<!--     <h1>Ongoing Courses:</h1> -->
+<!--     <ul> -->
+<!--         {% for item in site.data.learning.ongoing %} -->
+<!--         <li> -->
+<!--             <span id=realanalysis> {{ item.title }} ({{ item.institution }})</span> -->
+<!--             <span> -->
+<!--             <a href="/courses/{{ item.thoughts-url }}">thoughts</a> | -->
+<!--             <a href="{{ item.course-url }}">course</a> -->
+<!--             </span> -->
+<!--         </li> -->
+<!--         {% endfor %} -->
+<!--     </ul> -->
+<!-- </div> -->

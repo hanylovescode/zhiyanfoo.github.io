@@ -22,11 +22,11 @@ machine learning so you can implement a recommender system for your app using
 packages like sci-kit learn, this might not be the course for you. While there
 are other courses that might be theoretical in the sense that they go in depth
 to show why certain algorithms work, this course places a strong emphasis on
-fundamentals ideas in machine learning irrespective of any particular
-algorithm. It's an approach I really enjoyed but at times even I found it a bit
-too mathy. In the end though you'll have a very strong grasp of the fundamentals
+fundamental ideas in machine learning irrespective of any particular algorithm.
+It's an approach I really enjoyed but at times even I found myself lost in all
+the math. In the end though you'll have a very strong grasp of the fundamentals
 of machine learning and be very aware of how easy it is to contaminate your
-data or overfit it for example.
+data or overfit it.
 
 # What's the alternative?
 

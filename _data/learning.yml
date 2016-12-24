@@ -36,11 +36,12 @@ finished:
    institution: UCSD
    course-url: https://www.coursera.org/learn/algorithms-on-graphs
 
-ongoing:
+finished-small:
  - title: Real Analysis, Convexity, and Optimization E-216
    thoughts-url: real-analysis
    institution: Harvard Extension School
    course-url: https://canvas.harvard.edu/courses/17328
+ongoing:
 
 dropped:
  - title: Analysis of a Complex Kind 
