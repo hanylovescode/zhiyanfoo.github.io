@@ -6,7 +6,7 @@ Hello, my name is Zhiyan Foo. I am currently a conscript in the Singaporean Army
 
 # What do you do in your free time?
 I spend a lot of my time  doing online courses -- mostly related to math and
-computer science, but sometimes on the humanities .e.g. modern poetry. I also
+computer science, but also on the humanities e.g. modern poetry. I also
 like to work on coding projects -- some which I publish on github.  Other than
 I like basketball/soccer, novels and live music. 
 
