@@ -3,9 +3,14 @@ title: Six things I've learnt taking online courses for two years.
 layout: post
 ---
 
+*Here is a handy [flowchart]({{ site.url }}/flowchart/courses-flowchart.html).
+I've made for the math courses I've taken (and some alternatives to them). If
+you want to know what I think about the courses I've taken, you can check that
+out [here]({{ site.url }}/learning/)*
+
 Over the last two years I've spent over a 1000 hours studying mathematics,
 computer science and working on coding projects. These are six things I've
-learnt.
+learnt. 
 
 But before we get into that though… 
 
