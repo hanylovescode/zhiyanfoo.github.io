@@ -99,7 +99,7 @@ computer screen. Also you aren't as tempted to check your email or surf the
 web. Buy a printer that has cheap ink cartridges or get friendly with your
 neighbourhood print shop owner. If you’re doing a course on coursera, you can
 still print out their quizzes – the formatting gets a bit off, but it’s still
-usable. 
+usable.<sup><a href="#fn2" id="ref2">2</a></sup> 
 
 # Rule #5. Summarize what you learnt from a lecture after watching it.  
 
@@ -122,8 +122,8 @@ the real world.
 In mathematics and computer science, it's not difficult to give yourself an
 education comparable to that of a undergraduate major in those respective
 fields, precisely because the answers to problems in this field are clear-cut.
-There's always a right and wrong answer. <sup><a href="#fn2"
-id="ref2">2</a></sup> 
+There's always a right and wrong answer.<sup><a href="#fn3"
+id="ref3">3</a></sup> 
 
 But in literature or in the humanities, you need another person to critically
 evaluate your work, and so it's much harder to progress in these fields alone.
@@ -168,7 +168,12 @@ to in the army – most of the computers had no internet access – so I was alw
 either doing my work or studying at my desk. <a href="#ref1" 
 title="Jump back to footnote 1 in the text.">↩</a></sup>
 
-<sup id="fn2">2. This is also true of the sciences, but no science education
-is complete without exposure to experimentation -- impossible to get outside of
-a university setting. <a href="#ref2" 
+<sup id="fn2">2.  I wrote a couple of
+[scripts](https://github.com/zhiyanfoo/courses-scripts) to help download and
+remove the license page on MIT Opencoursware documents, <a href="#ref2"
 title="Jump back to footnote 2 in thetext.">↩</a></sup>
+
+<sup id="fn3">3. This is also true of the sciences, but no science education
+is complete without exposure to experimentation -- impossible to get outside of
+a university setting. <a href="#ref3" 
+title="Jump back to footnote 3 in thetext.">↩</a></sup>
