@@ -82,6 +82,8 @@ language acquisition](http://japanese.stackexchange.com/) and another on
 
 Other resources to connect with people online (from when I was learning
 Japanese).
+
+
 * [Lang-8](http://lang-8.com/) : Write a piece -- a diary entry or an essay
   -- in the language you are trying to learn.  Get it corrected by native
   speakers of the language. Reciprocate by helping others correct their work in
