@@ -1,5 +1,5 @@
 ---
-title: Six things I learnt taking online courses for two years.
+title: Six things I've learnt taking online courses for two years.
 layout: post
 ---
 
