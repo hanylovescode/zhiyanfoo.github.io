@@ -98,7 +98,7 @@ Japanese).
   native-speaking language partners."
 
 
-# Rule #4. Print whenever possible.
+# Rule #4: Print whenever possible.
 
 Not the most environmentally-friendly of rules, but I find it easier to
 concentrate when working with printed material as opposed to staring at a
@@ -108,7 +108,7 @@ neighbourhood print shop owner. If you’re doing a course on coursera, you can
 still print out their quizzes – the formatting gets a bit off, but it’s still
 usable.<sup><a href="#fn2" id="ref2">2</a></sup> 
 
-# Rule #5. Summarize what you learnt from a lecture after watching it.  
+# Rule #5: Summarize what you learnt from a lecture after watching it.  
 
 Watching lectures does not equal learning. I generally do not take notes while
 watching lectures, I prefer focusing on understanding what the lecturer is
@@ -117,7 +117,7 @@ it, try to explain to myself what those concepts are. If my there are gaps in
 my knowledge, I re-watch the portion of the video that address these gaps. 
 
 
-# Rule #6. Every piece of work you do must have a feedback mechanism.
+# Rule #6: Every piece of work you do must have a feedback mechanism.
 
 One enjoyable aspect of studying on your own, is that you don’t have to worry
 about grades or exams. Yet at the same time, this is the curse of online
@@ -184,3 +184,28 @@ title="Jump back to footnote 2 in thetext.">↩</a></sup>
 is complete without exposure to experimentation -- impossible to get outside of
 a university setting. <a href="#ref3" 
 title="Jump back to footnote 3 in thetext.">↩</a></sup>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-qns3YJDxX3eed"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-qns3YJDxX3eed.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
