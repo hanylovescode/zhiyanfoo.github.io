@@ -7,7 +7,7 @@ title: First round with Jekyll
 
 # Why use Jekyll?
 
-Jekyll has the dual honors of being difficult to get started with and as a
+Jekyll has the dual honors of being difficult to get started with and ,as a
 static-website generator, also having pretty limited functionality. So why
 bother?  While there are lots non-shallow reasons for going with
 Jekyll, frankly a big part of it is social signalling. Jekyll is akin to vim,
