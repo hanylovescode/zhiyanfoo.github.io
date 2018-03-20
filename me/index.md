@@ -2,15 +2,15 @@
 layout: info
 title: about me
 ---
-Hello, my name is Zhiyan Foo. I'm currently doing a programming internship with
-[quantcast](https://www.quantcast.com/) -- making sure creepily targeted
-advertisments are delivered to web users in a timely and cost effective manner.
+Hello, my name is Zhiyan Foo. I'm a math undergrad at university of waterloo.
 
+<!---
 # What do you do in your free time?
 I spend a lot of my time  doing online courses -- mostly related to math and
 computer science, but also on the humanities e.g. modern poetry. I also
 like to work on coding projects -- some which I publish on github.  Other than
 I like basketball/soccer, novels and live music. 
+-->
 
 <!---
 # Why should I hire you? :necktie: 
